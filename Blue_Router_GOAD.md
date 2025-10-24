@@ -1,4 +1,4 @@
-### Notes for Blue_Router Setup to be used with Super-GOAD
+### Notes for Blue_Router Setup to be used with Super-GOAD in Proxmox
 
 ## Interfaces
 The Blue_Router is a pfsense that sits between CyberRange(GraySpace) and the Blue (SuperGOAD) space.
